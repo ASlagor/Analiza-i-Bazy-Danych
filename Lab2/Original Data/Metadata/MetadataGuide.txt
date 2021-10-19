@@ -1,0 +1,29 @@
+Oznaczenia kolumn zawartych w pliku tb.csv w folderze Original Data
+
+iso2 - oznaczenie kraju
+
+year - rok, w którym zebrano dane
+
+new_sp - nowe przypadki gruźlicy
+
+new_sp_m04 - nowe przypadki gruźlicy w grupie mężczyzn w wieku od 0 do 4 lat
+new_sp_m514 - nowe przypadki gruźlicy w grupie mężczyzn w wieku od 5 do 14 lat
+new_sp_m014 - nowe przypadki gruźlicy w grupie mężczyzn w wieku od 0 do 14 lat
+new_sp_m1524 - nowe przypadki gruźlicy w grupie mężczyzn w wieku od 15 do 24 lat
+new_sp_m2534 - nowe przypadki gruźlicy w grupie mężczyzn w wieku od 25 do 34 lat
+new_sp_m3544 - nowe przypadki gruźlicy w grupie mężczyzn w wieku od 35 do 44 lat
+new_sp_m4554 - nowe przypadki gruźlicy w grupie mężczyzn w wieku od 45 do 54 lat
+new_sp_m5564 - nowe przypadki gruźlicy w grupie mężczyzn w wieku od 55 do 64 lat
+new_sp_m65 - nowe przypadki gruźlicy w grupie mężczyzn w wieku powyżej 65 lat
+new_sp_mu - nowe przypadki gruźlicy w grupie mężczyzn w nieokreślonym wieku
+
+new_sp_f04 - nowe przypadki gruźlicy w grupie kobiet w wieku od 0 do 4 lat
+new_sp_f514 - nowe przypadki gruźlicy w grupie kobiet w wieku od 5 do 14 lat
+new_sp_f014 - nowe przypadki gruźlicy w grupie kobiet w wieku od 0 do 14 lat
+new_sp_f1524 - nowe przypadki gruźlicy w grupie kobiet w wieku od 15 do 24 lat
+new_sp_f2534 - nowe przypadki gruźlicy w grupie kobiet w wieku od 25 do 34 lat
+new_sp_f3544 - nowe przypadki gruźlicy w grupie kobiet w wieku od 35 do 44 lat
+new_sp_f4554 - nowe przypadki gruźlicy w grupie kobiet w wieku od 45 do 54 lat
+new_sp_f5564 - nowe przypadki gruźlicy w grupie kobiet w wieku od 55 do 64 lat
+new_sp_f65 - nowe przypadki gruźlicy w grupie kobiet w wieku powyżej 65 lat
+new_sp_fu - nowe przypadki gruźlicy w grupie kobiet w nieokreślonym wieku
